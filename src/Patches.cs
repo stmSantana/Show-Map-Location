@@ -1,4 +1,4 @@
-﻿using Harmony;
+﻿using HarmonyLib;
 
 namespace ShowMapLocation
 {
@@ -29,7 +29,7 @@ namespace ShowMapLocation
 
         private static bool SceneCanBeMapped(string sceneName)
         {
-            return RegionManager.SceneIsRegion(sceneName) || sceneName == "DamRiverTransitionZoneB" || (sceneName == "HighwayTransitionZone" || sceneName == "RavineTransitionZone");// || sceneName == "MountainTownRegionSandbox";
+            return RegionManager.SceneIsRegion(sceneName) || sceneName == "DamRiverTransitionZoneB" || sceneName == "HighwayTransitionZone" || sceneName == "RavineTransitionZone" || sceneName == "BlackrockTransitionZone" || sceneName == "CanyonRoadTransitionZone";// || sceneName == "MountainTownRegionSandbox";
         }
     }
 }
