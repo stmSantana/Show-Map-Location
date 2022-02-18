@@ -6,7 +6,7 @@ It will mark your current location on the region map.
 
 ## Special Thanks
 
-[WulfMarius](https://github.com/WulfMarius) is the original creator of the Coordinate Grabber. I am very grateful for all the contributions he made to the modding community, and I'm honored to have adopted so many of his mods.
+[WulfMarius](https://github.com/WulfMarius) is the original creator of the Show-Map-Location. I am very grateful for all the contributions he made to the modding community, and I'm honored to have adopted so many of his mods.
 
 ## [Patreon](https://www.patreon.com/ds5678)
 
