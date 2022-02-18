@@ -36,5 +36,5 @@ using MelonLoader;
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("4.1.0")]
 [assembly: AssemblyFileVersion("4.1.0")]
-[assembly: MelonInfo(typeof(ShowMapLocation.Implementation), "Show-Map-Location", "4.0.0", "Wulf Marius, ds5678, stmSantana")]
+[assembly: MelonInfo(typeof(ShowMapLocation.Implementation), "Show-Map-Location", "4.1.0", "Wulf Marius, ds5678, stmSantana")]
 [assembly: MelonGame("Hinterland", "TheLongDark")]
